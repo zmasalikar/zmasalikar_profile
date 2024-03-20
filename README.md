@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Zuber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zmasalikar/)](https://www.linkedin.com/in/zmasalikar/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Zuber-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Website Badge](https://img.shields.io/badge/WebSite-Zuber-green)](https://zmasalikar.github.io/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/26300d44-2a2f-4190-9003-dedbdb513c36/deploy-status)](https://app.netlify.com/sites/creative-axolotl-fc31da/deploys)
 
 I'm
 Full Stack Solution Architect
